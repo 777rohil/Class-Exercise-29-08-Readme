@@ -27,4 +27,4 @@ Explains how one would run your project if they downloaded orcloned it.
 
 ## Clone the repository**
 ```bash
-git clone "https://github"
+git clone "https://github.com"
